@@ -75,6 +75,43 @@ Develop targeted strategies to:
 * Encourate repeat purchases
 * Improve customer lifetime value
 
+# 4. 🔁  Customer Engagement ( Repeat Purchases)
+
+**Insight:**
+
+Approximately **97% of customers make only one purchase**, with a sharp decline in repeat purchases.  
+This confirms low customer retention and highlights a dependency on new customer acquisition. 
+
+**Recommendation:**
+Implement retention-focused initiatives such as: 
+* loyalty programs
+* Personaized marketing
+* Post-purchase engagement strategies
+
+# 💡Key Business Insights
+* Revenue is geographically concentrated in a few key states
+* The business experienced rapid growth followed by stabilization
+* Customer base is dominated by low -engagement users
+* Customer retention is a major opportunity for improvement
+
+# 🚀 Strategic Recommendation
+* Diversify geographic expansion to reduce regional dependency
+* Investigate revenue spikes to identify repeatable growth drivers
+* Focus on customer retention to improve long-term profitability
+* Leverage high-value customers through targeted engagement.
+
+# 🔐 Security Note
+
+Database credentials are not stored in the notebook
+A secure method (getpass) is used to input the password a runtime.
+
+# 🗂️ Project Structure
+03_Olist_Brazilian_E-commerce.sql
+03_Olist_analysis,ipynb
+README.md
+
+
+
 
 
 
