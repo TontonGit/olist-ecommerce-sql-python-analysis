@@ -54,7 +54,27 @@ A noticeable spike in revenue is observed in November 2017, followed by a period
 
 **Recommendation:**
 
-Further analysis is required to identify the drivers behind the November 2017 spike.  Investigating potential factors such as promotional campaigns, seasonal demand, or external market influences could provide valuable insights for future strategy. 
+Further analysis is required to identify the drivers behind the November 2017 spike.  Investigating potential factors such as promotional campaigns, seasonal demand, or external market influences could provide valuable insights for future strategy.
+
+# 3. 👥 Customer Segmentation
+Customers were segmented based on purchasing behavior:
+* **Regular Customers** --> Low frequency and low spending
+* **High Ticket Customers** --> High average order value
+* **High Value Customers** --> High total spending
+* **High Frequency Customers** --> Repeat buyers
+
+**Insight:**
+
+The majority of customers are low-engagement buyers, while high-value and repeat customers represent a small portion of the customer base. 
+This indicates that the business relies heavily on one-time purchases. 
+
+**Recommendation:**
+
+Develop targeted strategies to:
+* Increase customer retention
+* Encourate repeat purchases
+* Improve customer lifetime value
+
 
 
 
