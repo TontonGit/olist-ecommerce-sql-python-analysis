@@ -1,3 +1,13 @@
+### 🌍 Revenue by State
+![Revenue by State](images/revenue_by_state.png)
+
+** Insight:**
+
+Revenue is highly concentrated in a small number of states. 
+This strong geographic concentration presents some advantages and some risks. 
+
+
+
 # 📊 Olist E-commerce Data Analysis (SQL & Python)
 
 ---
