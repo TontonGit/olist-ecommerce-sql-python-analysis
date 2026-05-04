@@ -107,7 +107,9 @@ A secure method (getpass) is used to input the password a runtime.
 
 # 🗂️ Project Structure
 03_Olist_Brazilian_E-commerce.sql
+
 03_Olist_analysis,ipynb
+
 README.md
 
 
