@@ -26,4 +26,20 @@ This analysis focuses on answering the following questions:
 3. **Who are the customers**
 4. **Do customers return and make repeat purchases**?
 
+# 🛠️ Tools & Technologies
+* SQL (MYSQL) --> Data extraction and transformation
+* Python (Pandas, Matplotlib) --> Data analysis and visualization
+* Jupyter Notebook --> Development environment
+
+# 📊 Key Analysis & Visualizations
+
+1. 🌍 Revenue by State
+
+**Insight**
+
+Revenue is highly concentrated in a small number of states. Sao Paulo (SP) alone contributes approximately **38% of total revenue**, followed by Rio de Janeiro (RJ) and Minas Gerais (MG). 
+This indicats strong geographic dependncy and highlights key regions for growth and risk. 
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------
