@@ -35,24 +35,24 @@ This analysis focuses on answering the following questions:
 
 # 1. 🌍 Revenue by State
 
-**Insight**
+**Insight:**
 
 Revenue is highly concentrated in a small number of states. Sao Paulo (SP) alone contributes approximately **38% of total revenue**, followed by Rio de Janeiro (RJ) and Minas Gerais (MG). 
 This indicats strong geographic dependncy and highlights
 
-**Recommnendation**:
+**Recommnendation:**
 
 While key states drive performance, this concentration presents a risk.  Expanding marketing efforts in underperforming regions
 could help increase market share and reduce dependence on a limited number of high-performing states.  
 
 # 2. 📈 Monthly Revenue Trend
 
-**Insight**
+**Insight:**
 
 Ths business shows a clear growth trajectory from late 2016 through 2017, indicating rapid marketplace expansion.  
 A noticeable spike in revenue is observed in November 2017, followed by a period of stabilization into 2018. 
 
-** Recommendation:**
+**Recommendation:**
 
 Further analysis is required to identify the drivers behind the November 2017 spike.  Investigating potential factors such as promotional campaigns, seasonal demand, or external market influences could provide valuable insights for future strategy. 
 
