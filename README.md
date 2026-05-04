@@ -50,10 +50,10 @@ could help increase market share and reduce dependence on a limited number of hi
 **Insight**
 
 Ths business shows a clear growth trajectory from late 2016 through 2017, indicating rapid marketplace expansion.  
-
 A noticeable spike in revenue is observed in November 2017, followed by a period of stabilization into 2018. 
 
 ** Recommendation:**
+
 Further analysis is required to identify the drivers behind the November 2017 spike.  Investigating potential factors such as promotional campaigns, seasonal demand, or external market influences could provide valuable insights for future strategy. 
 
 
