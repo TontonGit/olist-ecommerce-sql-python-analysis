@@ -21,9 +21,9 @@ The dataset contains transactional data from a Brazilian e-commerce marketplace,
 # 🎯 Business Questions
 
 This analysis focuses on answering the following questions:
-* 1. Where does revenue come from?
-* 2. How has the business grown over time?
-* 3. Who are the customers
-* 4. Do customers return and make repeat purchases?
+1. **Where does revenue come from**?
+2. **How has the business grown over time**?
+3. **Who are the customers**
+4. **Do customers return and make repeat purchases**?
 
 ----------------------------------------------------------------------------------------------------------------------------
