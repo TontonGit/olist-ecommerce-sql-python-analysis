@@ -2,12 +2,12 @@
 
 ## 📌 Project Overview
 
-This project analyzes the #Olist Brazilian E-commerce dataset# to uncover key business insights related to:
+This project analyzes the Olist Brazilian E-commerce dataset to uncover key business insights related to:
 . Revenue distribution
 . Customer behavior
 . Business growth trends
 . Customer segmentation
-The analysis combines *SQL for data extraction and Python for data analysis and visualization*, demonstrating an end-to-end
+The analysis combines SQL for data extraction and Python for data analysis and visualization, demonstrating an end-to-end
 analytic s workflow. 
 
 ----------------------------------------------------------------------------------------------------------------------------
