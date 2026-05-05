@@ -4,15 +4,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the **Olist Brazilian E-commerce dataset** to uncover key business insights related to:
-
-- Revenue distribution  
-- Customer behavior  
-- Business growth trends  
-- Customer segmentation  
-
-The analysis combines **SQL** for data extraction and **Python** for data analysis and visualization, demonstrating an end-to-end analytics workflow.
-
+This project presents an end-to-end analysis of a Brazilian e-commerce marketplace, combining SQL and Python to uncover insights on revenue, customer behavior, and business growth.
 ---
 
 ## 🎯 Business Questions
@@ -77,8 +69,7 @@ Approximately 97% of customers make only one purchase, highlighting low retentio
 
 ---
 
-👉 **For full analysis, SQL queries, and detailed explanations, see the Jupyter Notebook.**
-
+For full analysis, SQL queries, and detailed methodology, see the Jupyter Notebook included in this repository.
 ---
 
 ## 💡 Key Business Insights
