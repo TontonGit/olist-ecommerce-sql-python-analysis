@@ -1,31 +1,3 @@
-### 🌍 Revenue by State
-![Revenue by State](images/revenue_by_state.png)
-
-Revenue is highly concentrated in a small number of states. 
-This strong geographic concentration presents some advantages and some risks.
-
-
-### 📈 Monthly Revenue Trend
-![Monthly Revenue](images/monthly_revenue.png)
-
-The business shows a clear growth trajectory from late 2016 through 2017 and a  noticeable spike in revenue in **November 2017**.
-
-
-### 👥 Customer Segmentation
-![Customer Segmentation](images/customer_segmentation.png)
-
-Customers were segmented based on purchasing behavior
-
-
-### 🔁 Customer Engagement (Repeat Purchases)
-![Customer Engagement](images/customer_engagement.png)
-
-Approximately **97% of customers** make only one purchase.
-
-
-
-
-
 # 📊 Olist E-commerce Data Analysis (SQL & Python)
 
 ---
@@ -40,17 +12,6 @@ This project analyzes the **Olist Brazilian E-commerce dataset** to uncover key 
 - Customer segmentation  
 
 The analysis combines **SQL** for data extraction and **Python** for data analysis and visualization, demonstrating an end-to-end analytics workflow.
-
----
-
-## 🗂️ Dataset
-
-The dataset contains transactional data from a Brazilian e-commerce marketplace, including:
-
-- Customers  
-- Orders  
-- Order items  
-- Geographic information  
 
 ---
 
@@ -75,77 +36,48 @@ This analysis focuses on answering the following questions:
 
 ## 📊 Key Analyses & Visualizations
 
----
+This project focuses on the following key analyses:
 
-### 1. 🌍 Revenue by State
-
-**Insight:**
-
-Revenue is highly concentrated in a small number of states.  
-São Paulo (SP) alone contributes approximately **38% of total revenue**, followed by Rio de Janeiro (RJ) and Minas Gerais (MG).
-
-This indicates strong geographic dependency.
-
-**Recommendation:**
-
-While key states drive performance, this concentration presents a risk. Expanding marketing efforts in underperforming regions could help increase market share and reduce dependence on a limited number of high-performing states.
+1. 🌍 **Revenue by State**  
+2. 📈 **Monthly Revenue Trend**  
+3. 👥 **Customer Segmentation**  
+4. 🔁 **Customer Engagement (Repeat Purchases)**  
 
 ---
 
-### 2. 📈 Monthly Revenue Trend
+### 🌍 Revenue by State
 
-**Insight:**
+![Revenue by State](images/revenue_by_state.png)
 
-The business shows a clear growth trajectory from late 2016 through 2017, indicating rapid marketplace expansion.
-
-A noticeable spike in revenue is observed in **November 2017**, followed by a period of stabilization into 2018.
-
-**Recommendation:**
-
-Further analysis is required to identify the drivers behind the November 2017 spike. Investigating factors such as promotional campaigns, seasonal demand, or external influences could provide valuable insights for future strategy.
+Revenue is highly concentrated in a few key states, presenting both opportunities and risks.
 
 ---
 
-### 3. 👥 Customer Segmentation
+### 📈 Monthly Revenue Trend
 
-Customers were segmented based on purchasing behavior:
+![Monthly Revenue](images/monthly_revenue.png)
 
-- **Regular Customers** → Low frequency and low spending  
-- **High Ticket Customers** → High average order value  
-- **High Value Customers** → High total spending  
-- **High Frequency Customers** → Repeat buyers  
-
-**Insight:**
-
-The majority of customers are low-engagement buyers, while high-value and repeat customers represent a small portion of the customer base.
-
-This indicates that the business relies heavily on one-time purchases.
-
-**Recommendation:**
-
-Develop targeted strategies to:
-
-- Increase customer retention  
-- Encourage repeat purchases  
-- Improve customer lifetime value  
+Strong growth is observed throughout 2017, with a noticeable spike in November.
 
 ---
 
-### 4. 🔁 Customer Engagement (Repeat Purchases)
+### 👥 Customer Segmentation
 
-**Insight:**
+![Customer Segmentation](images/customer_segmentation.png)
 
-Approximately **97% of customers** make only one purchase, with a sharp decline in repeat purchases.
+Most customers are low-engagement buyers, while high-value segments represent a small portion of the base.
 
-This confirms low customer retention and highlights a dependency on new customer acquisition.
+---
 
-**Recommendation:**
+### 🔁 Customer Engagement (Repeat Purchases)
 
-Implement retention-focused initiatives such as:
+![Customer Engagement](images/customer_engagement.png)
 
-- Loyalty programs  
-- Personalized marketing  
-- Post-purchase engagement strategies  
+Approximately 97% of customers make only one purchase, highlighting low retention.
+
+---
+
+👉 **For full analysis, SQL queries, and detailed explanations, see the Jupyter Notebook.**
 
 ---
 
@@ -175,4 +107,4 @@ A secure method (`getpass`) is used to input the password at runtime.
 ---
 
 ## 🗂️ Project Structure
----------------------------------------------------------------------------------
+-----
