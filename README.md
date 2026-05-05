@@ -6,26 +6,21 @@ This strong geographic concentration presents some advantages and some risks.
 
 
 ### 📈 Monthly Revenue Trend
-
 ![Monthly Revenue](images/monthly_revenue.png)
 
 The business shows a clear growth trajectory from late 2016 through 2017 and a  noticeable spike in revenue in **November 2017**.
 
 
 ### 👥 Customer Segmentation
-
 ![Customer Segmentation](images/customer_segmentation.png)
 
 Customers were segmented based on purchasing behavior
 
 
 ### 🔁 Customer Engagement (Repeat Purchases)
-
 ![Customer Engagement](images/customer_engagement.png)
 
 Approximately **97% of customers** make only one purchase.
-
-This highlights low customer retention and reliance on new customer acquisition.
 
 
 
