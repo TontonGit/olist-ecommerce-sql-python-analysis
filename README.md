@@ -4,7 +4,18 @@
 ** Insight:**
 
 Revenue is highly concentrated in a small number of states. 
-This strong geographic concentration presents some advantages and some risks. 
+This strong geographic concentration presents some advantages and some risks.
+
+### 📈 Monthly Revenue Trend
+
+![Monthly Revenue](images/monthly_revenue.png)
+
+**Insight:**
+
+The business shows a clear growth trajectory from late 2016 through 2017 and a  noticeable spike in revenue in **November 2017**.
+
+
+
 
 
 
